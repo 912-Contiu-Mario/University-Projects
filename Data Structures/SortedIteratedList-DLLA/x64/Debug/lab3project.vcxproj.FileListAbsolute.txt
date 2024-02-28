@@ -1,0 +1,3 @@
+C:\Users\mario\facultate\an1sem2\DataStructures\lab3\SortedIteratedList\x64\Debug\lab3project.exe
+C:\Users\mario\facultate\an1sem2\DataStructures\Labs\lab3\SortedIteratedList\x64\Debug\lab3project.exe
+D:\facultate\an1sem2\DataStructures\Labs\lab3\SortedIteratedList\x64\Debug\lab3project.exe

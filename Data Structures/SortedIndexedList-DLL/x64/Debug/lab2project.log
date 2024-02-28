@@ -1,0 +1,8 @@
+﻿  App.cpp
+  ExtendedTest.cpp
+  ListIterator.cpp
+  ShortTest.cpp
+  SortedIndexeList.cpp
+  Generating Code...
+D:\facultate\an1sem2\DataStructures\Labs\lab2\sortedindexedlist\SortedIndexeList.cpp(82): warning C4715: 'SortedIndexedList::remove': not all control paths return a value
+  lab2project.vcxproj -> D:\facultate\an1sem2\DataStructures\Labs\lab2\x64\Debug\lab2project.exe

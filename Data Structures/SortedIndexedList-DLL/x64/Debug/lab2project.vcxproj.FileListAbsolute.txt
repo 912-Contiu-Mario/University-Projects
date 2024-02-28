@@ -1,0 +1,3 @@
+C:\Users\mario\facultate\DataStructures\x64\Debug\lab2project.exe
+C:\Users\mario\facultate\an1sem2\DataStructures\x64\Debug\lab2project.exe
+D:\facultate\an1sem2\DataStructures\Labs\lab2\x64\Debug\lab2project.exe
