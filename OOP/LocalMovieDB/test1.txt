@@ -1,0 +1,2 @@
+What is a pointer | Arabara | 56 55 | 500 | www.google.com
+What is NULL apointer | RhabuDhabi | 33 55 | 100 | www.youtube.com
