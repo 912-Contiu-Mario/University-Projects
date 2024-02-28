@@ -1,9 +1,0 @@
-2131|what is a pointer?|Darius Lacatus 6969
-9999|what's my name man?|skepticalGunner
-2342|What is polymorphism?|Alice Thompson
-9876|Advantages of STL containers?|Charlie Davis
-1234|What is the capital of France?|John Smith
-5678|How do you calculate the area of a circle?|Emily Johnson
-9012|What is the largest planet in our solar system?|David Brown
-3456|What is the formula for converting Celsius to Fahrenheit?|Sarah Wilson
-7890|Explain the concept of object-oriented programming.|Michael Davis

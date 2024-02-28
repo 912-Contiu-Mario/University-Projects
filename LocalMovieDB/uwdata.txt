@@ -1,3 +1,0 @@
-what is a pointer | mariola | 1 23 | 2000 | www.dsadas.com
-1234 | marioo | 122 22 | 1000 | www.dsadsa.com
-5678 | marioo | 22 33 | 1000 | www.dassa.com

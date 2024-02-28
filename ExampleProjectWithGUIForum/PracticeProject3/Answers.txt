@@ -1,7 +1,0 @@
-1|2131|user111|i have no idea whatsoever|111
-1|9999|user111|who asked|9999
-1|9999|user111|who brwoooo|999
-1|2342|user456|Polymorphism allows objects of different classes to be treated as objects of a common base class|2313
-2|2342|user789|Polymorphism enables code to work with objects of different types in a uniform way|42242
-1|9876|user987|STL containers provide dynamic memory management and efficient data structures|421
-2|9876|user654|STL containers simplify programming with ready-to-use data structures and algorithms|41412

@@ -1,2 +1,0 @@
-What is a pointer | RhabuDhabi | 22 33 | 1000 | www.sadada.com
-What is a NULL poitner | Marian | 33 55 | 2000 | www.braras.com
